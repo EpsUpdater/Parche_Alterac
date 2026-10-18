@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: Alterac
+created: 2026-08-31T15:12:09+02:00
